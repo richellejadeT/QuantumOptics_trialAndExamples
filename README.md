@@ -1,5 +1,5 @@
 # Quantum_Julia
-Here are my repositories of trials and replication using the QuantumOptics framework.
+Here are my repositories of trials and replication using the QuantumOptics framework. The main goal of this is for me to get a better understanding of how to simulate quantum systems using QuantumOptics.
 
 # Acknowledgement
 
